@@ -1,0 +1,12 @@
+*, *:after, *:before, body {
+    box-sizing: border-box;
+}
+body {
+    font-family: sans-serif;
+    background-color: rgba(230, 238, 249, 0.5);
+    display: flex;
+    justify-content: center;
+}
+#root {
+    position: absolute;
+}
